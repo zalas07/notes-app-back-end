@@ -48,8 +48,4 @@ Ketika membangun *Bookshelf API*, tentu kita perlu menguji untuk memastikan API 
 ## Completion Certification Link
 [Backend with Google Cloud](https://drive.google.com/file/d/1qkY_ZO1oVJl7rQGFs-knh4AQ9FsE4Cbf/view?usp=sharing)
 
-## Completion Certificate Link
-[Backend With Google Cloud](https://drive.google.com/file/d/1qkY_ZO1oVJl7rQGFs-knh4AQ9FsE4Cbf/view?usp=sharing)
-
-
 
