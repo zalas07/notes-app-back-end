@@ -44,5 +44,8 @@ adapun beberapa kriteria yang perlu di perhatikan dalam pengerjaan aplikasi *bac
 Ketika membangun *Bookshelf API*, tentu kita perlu menguji untuk memastikan API berjalan sesuai dengan kriteria yang ada. Dicoding telah menyediakan berkas Postman Collection dan Environment yang dapat di gunakan gunakan untuk pengujian:
 [postman Bookshelf API test Collection](https://github.com/dicodingacademy/a261-backend-pemula-labs/raw/099-shared-files/BookshelfAPITestCollectionAndEnvironment.zip)
 
+## Completion Certificate Link
+[Backend With Google Cloud](https://drive.google.com/file/d/1qkY_ZO1oVJl7rQGFs-knh4AQ9FsE4Cbf/view?usp=sharing)
+
 
 
